@@ -49,3 +49,72 @@ hotjar.com
 mixpanel.com
 segment.io
 amplitude.com
+
+#Онлайн-казино (крупные сети)
+
+1xbet.com
+1xbet.kz
+1xbet.ru
+1xstavka.ru
+melbet.com
+parimatch.com
+fon.bet
+winline.ru
+leon.ru
+ggbet.ru
+bet365.com
+betfair.com
+pokerstars.com
+partypoker.com
+888casino.com
+888poker.com
+bwin.com
+unibet.com
+
+#Казино-платформы / провайдеры
+
+softswiss.com
+everymatrix.com
+pragmaticplay.com
+playtech.com
+netent.com
+microgaming.com
+evolutiongaming.com
+quickspin.com
+yggdrasilgaming.com
+playson.com
+
+
+#Покер / слоты / бинго
+
+pokerstars.net
+partypoker.net
+ggpoker.com
+spinomenal.com
+betsoftgaming.com
+booongo.com
+redtiger.com
+elk-studios.com
+
+#Платёжки казино
+muchbetter.com
+pay4fun.com
+skrill.com
+neteller.com
+ecopayz.com
+
+#Рекламные сети казино
+
+ads.betfair.com
+ads.bwin.com
+affiliate.1xbet.com
+partners.melbet.com
+partners.parimatch.com
+
+#Агрегаторы и зеркала
+topcasino.com
+casino.org
+askgamblers.com
+lcb.org
+casino.guru
+slotsjudge.com
