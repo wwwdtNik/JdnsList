@@ -1,1 +1,51 @@
-vvv
+# Google Ads / DoubleClick
+
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+googletagservices.com
+googletagmanager.com
+ads.google.com
+pagead2.googlesyndication.com
+
+#Yandex Ads
+
+an.yandex.ru
+yandexadexchange.net
+yandex.ru
+yandex.net
+
+#Meta (Facebook / Instagram)
+
+facebook.net
+fbcdn.net
+fbsbx.com
+connect.facebook.net
+
+#VK / Mail.ru / myTarget
+
+mytarget.ru
+vkcdn.net
+vk.com
+mail.ru
+
+#TikTok Ads
+
+ads.tiktok.com
+ads-api.tiktok.com
+business-api.tiktok.com
+
+#Microsoft Ads
+
+ads.msn.com
+ads.microsoft.com
+bingads.microsoft.com
+
+#Аналитика и трекеры
+
+google-analytics.com
+stats.g.doubleclick.net
+hotjar.com
+mixpanel.com
+segment.io
+amplitude.com
