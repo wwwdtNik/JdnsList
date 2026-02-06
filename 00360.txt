@@ -118,3 +118,42 @@ askgamblers.com
 lcb.org
 casino.guru
 slotsjudge.com
+
+#Общее / локальные сети
+admixer.net
+admixer.com.ua
+advmaker.net
+adservice.com.ua
+advertise.ua
+banner.ua
+adforce.ua
+ads.ua
+marketgid.com
+mgid.com
+
+#UA аналитика / трекеры
+statcounter.com
+liveinternet.ru
+top.bigmir.net
+counter.yadro.ru
+rating.bigmir.net
+
+#Media / порталы (реклама)
+ads.interfax.com.ua
+ads.liga.net
+ads.pravda.com.ua
+ads.obozrevatel.com
+ads.unian.net
+
+#Mobile / SDK
+app-measurement.com
+firebaseanalytics.googleapis.com
+adjust.com
+branch.io
+
+#Affiliate / CPA
+leadgid.ru
+admitad.com
+admitad.net
+cityads.com
+salesdoubler.com
